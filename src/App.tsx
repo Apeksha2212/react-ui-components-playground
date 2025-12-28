@@ -1,9 +1,11 @@
 import React from 'react';
+import PrimaryButton from './Components/buttons/PrimaryButton';
 
 function App() {
   return (
     <div className="App">
-          Learn React
+         Primary Button 
+         <PrimaryButton label="Click Me" onClick={() => alert('Button Clicked!')} />
     </div>
   );
 }
