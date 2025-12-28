@@ -2,6 +2,7 @@
   "name": "react-ui-components-playground",
   "version": "0.1.0",
   "private": true,
+   "homepage": "https://apeksha2212.github.io/react-ui-components-playground",
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.1",
