@@ -10,6 +10,7 @@ function App() {
          <PrimaryButton label="Click Me" onClick={() => alert('Button Clicked!')} />
          <OutlineButton label="Outline Me" onClick={() => alert('Outline Button Clicked!')} />
          <IconButtonCustom label="Icon" onClick={() => alert('Icon Button Clicked!')} />
+
     </div>
   );
 }
